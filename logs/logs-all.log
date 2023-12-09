@@ -1,0 +1,135 @@
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:15:55.278Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:16:00.063Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:16:05.026Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:16:10.050Z"}
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2023-12-08T16:16:15.009Z"}
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2023-12-08T16:16:20.006Z"}
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2023-12-08T16:16:25.016Z"}
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2023-12-08T16:16:30.005Z"}
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2023-12-08T16:16:35.010Z"}
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2023-12-08T16:16:40.005Z"}
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2023-12-08T16:16:45.001Z"}
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2023-12-08T16:16:50.003Z"}
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2023-12-08T16:16:55.106Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:18:30.061Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:18:35.007Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:18:40.003Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:18:45.010Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:18:50.002Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:18:55.008Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:19:00.013Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:19:05.006Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:19:10.006Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:19:15.036Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:19:20.002Z"}
+{"message":" TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:19:25.082Z"}
+{"message":"http://127.0.0.1:8000/ TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:19:30.075Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:19:35.054Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:19:40.012Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:19:45.003Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:19:50.005Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:19:55.005Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:20:00.003Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:20:05.002Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:20:10.003Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:20:15.006Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:20:20.013Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:20:25.014Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:20:30.004Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:20:35.002Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:20:40.004Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:20:45.003Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:20:50.010Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:20:55.001Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:21:00.002Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:21:05.016Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:21:10.005Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:21:15.001Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:21:20.017Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:21:25.009Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:21:30.001Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:21:35.009Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:21:40.001Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:21:45.003Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:21:50.054Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:23:25.076Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:23:30.003Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:23:35.003Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:23:40.003Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:23:45.002Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:23:50.003Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:23:55.006Z"}
+{"message":"http://127.0.0.1:8000/ is not TypeError: fetch failed","level":"high","createdAt":"2023-12-08T16:24:00.006Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:24:05.571Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:24:10.023Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:24:15.026Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:24:20.374Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:24:25.030Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:24:30.018Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:24:35.032Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:24:40.077Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:24:45.023Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:24:50.020Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:24:55.051Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:25:00.029Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:25:05.016Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:25:10.016Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:25:15.016Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:25:20.051Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:25:25.015Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:25:30.019Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:25:35.017Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:25:40.017Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:25:45.031Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:25:50.017Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:25:55.025Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:26:00.020Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:26:05.016Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:26:10.042Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:26:15.026Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:26:20.035Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:26:25.015Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:26:30.019Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:26:35.017Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:26:40.015Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T16:26:45.025Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T17:18:25.264Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T17:18:30.022Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T17:18:35.021Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T17:18:40.024Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T17:18:45.023Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T17:19:05.291Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T17:19:10.026Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T17:19:15.022Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T17:19:20.029Z"}
+{"message":"Service http://127.0.0.1:8000/ is ok","level":"low","createdAt":"2023-12-08T17:19:25.047Z"}
+{"message":"http://127.0.0.1:8000/ is ok","level":"low","origin":"check-service","createdAt":"2023-12-08T17:47:50.123Z"}
+{"message":"http://127.0.0.1:8000/ is ok","level":"low","origin":"check-service","createdAt":"2023-12-08T17:47:55.020Z"}
+{"message":"http://127.0.0.1:8000/ is ok","level":"low","origin":"check-service","createdAt":"2023-12-08T17:48:00.069Z"}
+{"message":"http://127.0.0.1:8000/ is ok","level":"low","origin":"check-service","createdAt":"2023-12-08T17:48:05.024Z"}
+{"message":"http://127.0.0.1:8000/ is ok","level":"low","origin":"check-service","createdAt":"2023-12-08T17:48:10.021Z"}
+{"message":"http://127.0.0.1:8000/ is ok","level":"low","origin":"check-service","createdAt":"2023-12-08T17:48:15.034Z"}
+{"message":"http://127.0.0.1:8000/ is ok","level":"low","origin":"check-service","createdAt":"2023-12-08T17:48:20.026Z"}
+{"message":"http://127.0.0.1:8000/ is ok","level":"low","origin":"check-service","createdAt":"2023-12-08T17:48:25.018Z"}
+{"message":"http://127.0.0.1:8000/ is ok","level":"low","origin":"check-service","createdAt":"2023-12-08T17:48:30.030Z"}
+{"message":"http://127.0.0.1:8000/ is ok","level":"low","origin":"check-service","createdAt":"2023-12-08T17:48:35.025Z"}
+{"message":"http://127.0.0.1:8000/ is ok","level":"low","origin":"check-service","createdAt":"2023-12-08T17:48:40.025Z"}
+{"message":"http://127.0.0.1:8000/ is ok","level":"low","origin":"check-service","createdAt":"2023-12-08T17:48:45.017Z"}
+{"message":"http://127.0.0.1:8000/ is ok","level":"low","origin":"check-service","createdAt":"2023-12-08T17:48:50.020Z"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:30:36.583Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:30:40.544Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:30:45.823Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:30:50.724Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:30:55.494Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:31:00.716Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:31:05.698Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:31:11.093Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:31:16.283Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:31:20.686Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:31:25.679Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:31:30.858Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:31:30.967Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:31:35.457Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:31:35.477Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:31:46.218Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2023-12-09T02:31:46.198Z","origin":"check-service.ts"}
